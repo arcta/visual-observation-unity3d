@@ -1,11 +1,14 @@
 Library
 Logs
 Packages
-ProjectSettings
 python/Linux
 python/models
 python/summaries
 README.ipynb
+
+Assets/ML-Agents
+Assets/Gizmos
+Assets/Skybox
 
 **/*.pyc
 **/__pycache__
@@ -16,8 +19,5 @@ README.ipynb
 
 data/*
 **/*.pkl
-**/*.meta
 **/*.log
-**/*.csproj
-**/*.sln
 **/*.DS_Store
